@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mavicaon
+- 👋 Hi, I’m @Mavicaon A Youtuber/content creator, an advocate of Tech
 - 👀 I’m interested in All  things Data and Crypto/AI
 - 🌱 I’m currently learning PowerBi, SQL, Snowflakes
 - 💞️ I’m looking to collaborate on Web3 Projects
